@@ -1,0 +1,8 @@
+
+Predicting Energy Consumption of Eletric Vehicles
+https://www.kaggle.com/code/rafaeldsn/predicting-energy-consumption-of-eletric-vehicles/notebook
+
+Em portugues
+https://github.com/fhvegh/Project-01-v3-Energy-Consumption-Eletric-Cars/blob/main/Analise_Exploratoria.R
+
+https://github.com/GilbertoBarbosa/consumer-electric-cars/blob/main/script.R
